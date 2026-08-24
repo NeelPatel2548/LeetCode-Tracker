@@ -9,4 +9,16 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/NeelPatel2548/LeetCode-Tracker/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/NeelPatel2548/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/NeelPatel2548/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/NeelPatel2548/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
