@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/NeelPatel2548/LeetCode-Tracker/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NeelPatel2548/LeetCode-Tracker/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NeelPatel2548/LeetCode-Tracker/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
