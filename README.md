@@ -24,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/NeelPatel2548/LeetCode-Tracker/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NeelPatel2548/LeetCode-Tracker/tree/master/0009-palindrome-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NeelPatel2548/LeetCode-Tracker/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
